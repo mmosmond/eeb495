@@ -79,9 +79,14 @@ The University of Toronto strives to provide a family-friendly environment. You 
 ## Student supports
 
 [CTSI list of supports] (https://teaching.utoronto.ca/teaching-support/u-of-t-resources/teaching/students/)
+
 [Getting ready for online] (https://onlinelearning.utoronto.ca/getting-ready-for-online/)
+
 [5 tips for online learning] (https://teaching.utoronto.ca/teaching-support/strategies/continuity-planning/5-tips-for-students/)
+
 Enroll in the [Academic success module] (https://q.utoronto.ca/enroll/ALEYMP)
+
 [Student Online Course Planning and Resources] (https://teaching.utoronto.ca/wp-content/uploads/2020/04/Student-Online-Course-Planning-and-Resources.pdf)
+
 [Get help with Quercus] (https://q.utoronto.ca/courses/46670/pages/student-guide)
 
