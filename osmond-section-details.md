@@ -20,7 +20,7 @@ Each week, a group of students (i.e., the Topic Leaders) will present the contex
 
 You will be required to read two papers a week: a primary research paper accompanied by a secondary paper (often a review or perspectives paper) to provide context. You will write a short critique, similar to an *Evolution* [‘Digest’ article](https://sites.duke.edu/evodigests/) on the primary paper, describing the implications and significance of the study, situating the paper in its broader scientific context, and/or suggesting future directions for related work. 
 
-Critiques must be less than 2 pages double spaced, with 12-point Times New Roman font and 2.5 cm margins, not including references. Citations and references should be formatted according to the style of [*Evolution*](https://onlinelibrary.wiley.com/page/journal/15585646/homepage/forauthors.html#ps). In-text citations are formatted as (Lastname, YEAR), (Lastname1 and Lastname2, YEAR), or (Lastname et al., YEAR), depending on if there are one, two, or more authors, respectfully. 
+Critiques must be less than 2 pages double spaced, with 12-point Times New Roman font and 2.5 cm margins, not including references. Citations and references should be formatted according to [the style of *Evolution*](https://onlinelibrary.wiley.com/page/journal/15585646/homepage/forauthors.html#ps). In-text citations are formatted as (Lastname YEAR), (Lastname1 and Lastname2 YEAR), or (Lastname et al. YEAR), depending on if there are one, two, or more authors, respectfully. 
 
 Further details including a grading rubric and example critique will be posted on [Quercus](https://q.utoronto.ca). We will spend part of the first meeting discussing how to write an effective critique. (No assignments are due that week.) 
 
