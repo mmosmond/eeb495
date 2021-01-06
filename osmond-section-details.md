@@ -18,11 +18,11 @@ Each week, a group of students (i.e., the Topic Leaders) will present the contex
 
 ### Weekly readings and written assignments
 
-You will be required to read two papers a week: a primary research paper accompanied by a secondary paper (often a review or perspectives paper) to provide context. You will write a short critique, similar to an *Evolution* ‘Digest’ article on the primary paper, describing the implications and significance of the study, situating the paper in its broader scientific context, and/or suggesting future directions for related work. 
+You will be required to read two papers a week: a primary research paper accompanied by a secondary paper (often a review or perspectives paper) to provide context. You will write a short critique, similar to an *Evolution* [‘Digest’ article](https://sites.duke.edu/evodigests/) on the primary paper, describing the implications and significance of the study, situating the paper in its broader scientific context, and/or suggesting future directions for related work. 
 
-Critiques must be less than 2 pages double spaced, with 12-point Times New Roman font and 2.5 cm margins, not including references. Citations and references should be formatted according to the style of *Evolution*. In-text citations are  formatted as (Lastname YEAR; Lastname1 and Lastname2 YEAR; or Lastname et al. YEAR)  depending on if there are one, two, or more authors. 
+Critiques must be less than 2 pages double spaced, with 12-point Times New Roman font and 2.5 cm margins, not including references. Citations and references should be formatted according to the style of [*Evolution*](https://onlinelibrary.wiley.com/page/journal/15585646/homepage/forauthors.html#ps). In-text citations are formatted as (Lastname, YEAR), (Lastname1 and Lastname2, YEAR), or (Lastname et al., YEAR), depending on if there are one, two, or more authors, respectfully. 
 
-Further details including a grading rubric and example critique will be posted on [Quercus] (https://q.utoronto.ca). We will spend part of the first meeting discussing how to write an effective critique. (No assignments are due that week.) 
+Further details including a grading rubric and example critique will be posted on [Quercus](https://q.utoronto.ca). We will spend part of the first meeting discussing how to write an effective critique. (No assignments are due that week.) 
 
 Students who are presenting on a given week are exempt from the written assignment. Critiques are required for only 3 of the other 4 weeks. However, if you wish to write 4  critiques, I will drop the lowest mark for the final grade. 
 
@@ -30,13 +30,14 @@ Critiques must be submitted through Quercus before the start of class on the day
 
 ### Grading
 
-#### Written assignments (30%)
+### Written assignments (30%)
 
 Critiques (3 x 10%)
 
 #### Presentation/Discussion (20%)
 
 Presentation (10%)
+
 Class discussion (10%)
 
 ## Schedule
@@ -44,26 +45,31 @@ Class discussion (10%)
 ### Week 1 - organization and introduction + critique writing
 
 *Optional reading*: 
+
 **No critique due this week**
 
 ### Week 2 -
 
 *Context*:
+
 *Primary*:
 
 ### Week 3 -
 
 *Context*:
+
 *Primary*:
 
 ### Week 4 -
 
 *Context*:
+
 *Primary*:
 
 ### Week 5 -
 
 *Context*:
+
 *Primary*:
 
 ### Reading week, no classes -- enjoy your break!
@@ -71,4 +77,5 @@ Class discussion (10%)
 ### Week 6 -
 
 *Context*:
+
 *Primary*:

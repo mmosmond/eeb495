@@ -14,6 +14,7 @@ atmosphere of mutual respect where all members of our community can express them
 not condone discrimination or harassment against any persons or communities.
 
 [Code of Student Conduct](https://governingcouncil.utoronto.ca/secretariat/policies/code-student-conduct-december-13-2019)
+
 [Netiquette]( https://learn.canvas.net/courses/1340/pages/netiquette-the-golden-rules-for-online-courses)
 
 ## When and where
