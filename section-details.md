@@ -48,11 +48,11 @@ Class discussion (10%)
 
 **No critique due this week**
 
-### Week 2 - lizards and winter storms
+### Week 2 - finches and drought
 
-*Context*: [Grant 2017. Evolution, climate change, and extreme events. *Science* 357:451-452.](https://science.sciencemag.org/content/357/6350/451)
+*Context*: [Pennisi 2006. Competition drives big beaks out of business. *Science* 313:156Tobler and Culumber 2016. Swimming in polluted waters. *Science* 354:1232-1233.](https://science.sciencemag.org/content/313/5784/156)
 
-*Primary*: [Campbell-Staton et al. 2017. Winter storms drive rapid phenotypic, regulatory, and genomic shifts in the green anole lizard. *Science* 357:495-498.](https://science.sciencemag.org/content/357/6350/495)
+*Primary*: [Grant and Grant 2006. Evolution of character displacement in Darwin's finches. *Science* 313:224-226.](https://science.sciencemag.org/content/313/5784/224)
 
 ### Week 3 - moths and industrialization 
 
@@ -68,14 +68,15 @@ Class discussion (10%)
 
 ### Week 5 - clover and cites
 
-*Context*: [Johnson and Munshi-South 2017. Evolution of life in urban environments. *Science* 358:eaam8327](https://science.sciencemag.org/content/358/6363/eaam8327)
+*Context*: [Johnson and Munshi-South 2017. Evolution of life in urban environments. *Science* 358:eaam8327.](https://science.sciencemag.org/content/358/6363/eaam8327)
 
-*Primary*: [Thompson, Renaudin, and Johnson 2016. Urbanization drives the evolution of parallel clines in plant populations. *Proceedings of the Royal Society B* 283:20162180.](https://doi.org/10.1098/rspb.2016.2180)
+*Primary*: [Thompson et al. 2016. Urbanization drives the evolution of parallel clines in plant populations. *Proceedings of the Royal Society B* 283:20162180.](https://doi.org/10.1098/rspb.2016.2180)
 
 ### Reading week, no classes -- enjoy your break!
 
-### Week 6 - finches and drought
+### Week 6 - lizards and winter storms
 
-*Context*: [Pennisi 2006. Competition drives big beaks out of business. *Science* 313:156Tobler and Culumber 2016. Swimming in polluted waters. *Science* 354:1232-1233.](https://science.sciencemag.org/content/313/5784/156)
+*Context*: [Grant 2017. Evolution, climate change, and extreme events. *Science* 357:451-452.](https://science.sciencemag.org/content/357/6350/451)
 
-*Primary*: [Grant and Grant 2006. Evolution of character displacement in Darwin's finches. *Science* 313:224-226.](https://science.sciencemag.org/content/313/5784/224)
+*Primary*: [Campbell-Staton et al. 2017. Winter storms drive rapid phenotypic, regulatory, and genomic shifts in the green anole lizard. *Science* 357:495-498.](https://science.sciencemag.org/content/357/6350/495)
+
