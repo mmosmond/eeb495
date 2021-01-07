@@ -7,7 +7,7 @@ In this course we will develop the ability to read, present, and discuss scienti
 
 *Prerequisite*: A minimum of 1.0 FCE in EEB courses at the 300+ level (at least 0.5 FCE in ecology and 0.5 FCE in evolutionary biology is highly recommended)
 
-## Expectations 
+## Group norms 
 
 The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an
 atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another’s differences. U of T does
@@ -49,9 +49,13 @@ You will need reliable internet. Please let the instructors know if this will be
 
 Each instructor will allocate 30% of your final grade to written assignments. 
 
-### Presentations/Discussion (40%)
+### Presentations (20%)
 
-Each instructor will allocate 10% of your final grade to an oral presentation (so you will do two in the course) and 10% of your final grade to participating in class discussions.
+Each instructor will allocate 10% of your final grade to an oral presentation (so you will do two in the course).
+
+### Discussions (20%)
+
+Each instructor will allocate 10% of your final grade to participating in class discussions.
 
 ## Course webpage
 
@@ -59,9 +63,11 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 
 Further details about assignments and presentations will be posted on Quercus and discussed in the first meeting of each instructor’s section. 
 
-## Plagarism
+## Writing help and integrity
 
-Make sure you know how not to plagiarize. Note that it is not appropriate to use large sections of text from internet sources, and inserting a few of your own words does not make it an original piece of writing. Make sure you read material from many sources in the primary literature and that you write an original text using this information. Always cite your sources. In case of doubt about plagiarism, talk to your instructor.
+Writing is a big part of this course. Please see the [Writing Center](https://writing.utoronto.ca/) for advice, courses, and support.  
+
+Make sure you know how not to plagiarize. Note that it is not appropriate to use large sections of text from internet sources, and inserting a few of your own words does not make it an original piece of writing. Make sure you read material from many sources in the primary literature and that you write an original text using this information. Always cite your sources. In case of doubt about plagiarism, talk to your instructor. See [Academic Integrity](https://www.academicintegrity.utoronto.ca/) for more information.
 
 ## Accessibility
 
@@ -69,7 +75,7 @@ The University provides academic accommodations for students with disabilities i
 
 Students with diverse learning styles and needs are welcome in this course. If you have a disability that may require accommodations, please feel free to email the instructors and/or the [Accessibility Services office](https://studentlife.utoronto.ca/department/accessibility-services/).
 
-## Religous observances
+## Religious observances
 
 The University provides reasonable accommodation of the needs of students who observe religious holy days other than those already accommodated by ordinary scheduling and statutory holidays. Students have a responsibility to alert members of the teaching staff in a timely fashion to upcoming religious observances and anticipated absences and instructors will make every reasonable effort to avoid scheduling tests, examinations or other compulsory activities at these times.
 
