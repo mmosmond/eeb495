@@ -79,11 +79,11 @@ Students with diverse learning styles and needs are welcome in this course. If y
 
 The University provides reasonable accommodation of the needs of students who observe religious holy days other than those already accommodated by ordinary scheduling and statutory holidays. Students have a responsibility to alert members of the teaching staff in a timely fashion to upcoming religious observances and anticipated absences and instructors will make every reasonable effort to avoid scheduling tests, examinations or other compulsory activities at these times.
 
-Please reach out to me as early as possible to communicate any anticipated absences related to religious observances, and to discuss any possible related implications for course work.
+Please reach out to the instructors as early as possible to communicate any anticipated absences related to religious observances, and to discuss any possible related implications for course work.
 
 ## Family care responsibilities
 
-The University of Toronto strives to provide a family-friendly environment. You may wish to inform me if you are a student with family responsibilities. If you are a student parent or have family responsibilities, you also may wish to visit the [Family Care Office website](https://familycare.utoronto.ca).
+The University of Toronto strives to provide a family-friendly environment. You may wish to inform the instructors if you are a student with family responsibilities. If you are a student parent or have family responsibilities, you also may wish to visit the [Family Care Office website](https://familycare.utoronto.ca).
 
 ## Student support
 
