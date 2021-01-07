@@ -44,13 +44,13 @@ Class discussion (10%)
 
 ### Week 1 - organization and introduction + critique writing
 
-*Optional reading*: 
+*Optional reading*: [Kreiner et al. 2019. Multiple modes of convergent adaptation in the spread of glyphosate-resistant *Amaranthus tuberculatus*. *Proceedings of the National Academy of Sciences* 116: 21076-21084.](https://doi.org/10.1073/pnas.1900870116)
 
 **No critique due this week**
 
 ### Week 2 - finches and drought
 
-*Context*: [Pennisi 2006. Competition drives big beaks out of business. *Science* 313:156Tobler and Culumber 2016. Swimming in polluted waters. *Science* 354:1232-1233.](https://science.sciencemag.org/content/313/5784/156)
+*Context*: [Pennisi 2006. Competition drives big beaks out of business. *Science* 313:156.](https://science.sciencemag.org/content/313/5784/156)
 
 *Primary*: [Grant and Grant 2006. Evolution of character displacement in Darwin's finches. *Science* 313:224-226.](https://science.sciencemag.org/content/313/5784/224)
 
@@ -74,7 +74,7 @@ Class discussion (10%)
 
 ### Reading week, no classes -- enjoy your break!
 
-### Week 6 - lizards and winter storms
+### Week 6 - lizards and storms
 
 *Context*: [Grant 2017. Evolution, climate change, and extreme events. *Science* 357:451-452.](https://science.sciencemag.org/content/357/6350/451)
 
