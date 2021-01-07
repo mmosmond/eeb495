@@ -48,34 +48,34 @@ Class discussion (10%)
 
 **No critique due this week**
 
-### Week 2 -
+### Week 2 - lizards and winter storms
 
-*Context*:
+*Context*: [Grant 2017. Evolution, climate change, and extreme events. *Science* 357:451-452.](https://science.sciencemag.org/content/357/6350/451)
 
-*Primary*:
+*Primary*: [Campbell-Staton et al. 2017. Winter storms drive rapid phenotypic, regulatory, and genomic shifts in the green anole lizard. *Science* 357:495-498.](https://science.sciencemag.org/content/357/6350/495)
 
-### Week 3 -
+### Week 3 - moths and industrialization 
 
-*Context*:
+*Context*: [Mallet and Hoekstra 2016. Ecological genetics: a key gene for mimicry and melanism. *Current Biology* 26:R802-R804.](https://www.sciencedirect.com/science/article/pii/S0960982216307825)
 
-*Primary*:
+*Primary*: [van't Hof et al. 2016. The industrial melanism mutation in British peppered moths is a transposable element. *Nature* 534:102-105.](https://www.nature.com/articles/nature17951)
 
-### Week 4 -
+### Week 4 - killifish and pollution
 
-*Context*:
+*Context*: [Tobler and Culumber 2016. Swimming in polluted waters. *Science* 354:1232-1233.](https://science.sciencemag.org/content/354/6317/1232)
 
-*Primary*:
+*Primary*: [Reid et al. 2016. The genomic landscape of rapid repeated evolutionary adaptation to toxic pollution in wild fish. *Science* 354:1305-1308.](https://science.sciencemag.org/content/354/6317/1305)
 
-### Week 5 -
+### Week 5 - clover and cites
 
-*Context*:
+*Context*: [Johnson and Munshi-South 2017. Evolution of life in urban environments. *Science* 358:eaam8327](https://science.sciencemag.org/content/358/6363/eaam8327)
 
-*Primary*:
+*Primary*: [Thompson, Renaudin, and Johnson 2016. Urbanization drives the evolution of parallel clines in plant populations. *Proceedings of the Royal Society B* 283:20162180.](https://doi.org/10.1098/rspb.2016.2180)
 
 ### Reading week, no classes -- enjoy your break!
 
-### Week 6 -
+### Week 6 - finches and drought
 
-*Context*:
+*Context*: [Pennisi 2006. Competition drives big beaks out of business. *Science* 313:156Tobler and Culumber 2016. Swimming in polluted waters. *Science* 354:1232-1233.](https://science.sciencemag.org/content/313/5784/156)
 
-*Primary*:
+*Primary*: [Grant and Grant 2006. Evolution of character displacement in Darwin's finches. *Science* 313:224-226.](https://science.sciencemag.org/content/313/5784/224)
