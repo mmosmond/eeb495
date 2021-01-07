@@ -8,7 +8,7 @@ There are no prearranged office hours, so please email me with questions or conc
 
 ## Topic: Contemporary evolution
 
-Evolution by natural selection was first perceived as a slow process acting on geological timescales. This perspective has changed drastically over the last 100 years as more and more examples of rapid evolution have accumulated. Many of these examples of rapid evolution are the result of human disturbance, for example adaptation to pollution or urban environments. These studies therefore illustrate both the ability of some species to tolerate human impacts and the ability of humans to impact the evolutionary trajectory of other species. In this section of the course we will explore some striking examples of rapid evolution ...
+Evolution by natural selection was first perceived as a slow process acting on geological timescales. This perspective has changed drastically over the last 100 years as more and more examples of rapid evolution have accumulated. Many of these examples of rapid evolution are the result of human disturbance, for example adaptation to pollution or urban environments. These studies therefore illustrate both the ability of some species to tolerate human impacts and the ability of humans to impact the evolutionary trajectory of other species. In this section of the course we will explore some striking examples of rapid evolution while developing the skills to critique and discuss science.
 
 ## Coursework
 

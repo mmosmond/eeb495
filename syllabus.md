@@ -57,7 +57,7 @@ Each instructor will allocate 10% of your final grade to an oral presentation (s
 
 All course information will be posted on [Quercus](https://q.utoronto.ca) or emailed to you directly through your utoronto email. If you have any problem accessing the material, let us know right away via email so we can fix the problem. 
 
-Further details about assignments and presentations will be posted on Quercus and discussed in the first meeting of each instructor’s session. 
+Further details about assignments and presentations will be posted on Quercus and discussed in the first meeting of each instructor’s section. 
 
 ## Plagarism
 
@@ -79,7 +79,7 @@ Please reach out to me as early as possible to communicate any anticipated absen
 
 The University of Toronto strives to provide a family-friendly environment. You may wish to inform me if you are a student with family responsibilities. If you are a student parent or have family responsibilities, you also may wish to visit the [Family Care Office website](https://familycare.utoronto.ca).
 
-## Student supports
+## Student support
 
 [CTSI list of supports](https://teaching.utoronto.ca/teaching-support/u-of-t-resources/teaching/students/)
 
