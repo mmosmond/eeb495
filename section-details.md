@@ -4,7 +4,7 @@
 
 Dr. Matthew Osmond, mm.osmond@utoronto.ca
 
-There are no prearranged office hours, so please email me with questions or concerns or to set up a time to talk via phone or Zoom.
+There are no prearranged office hours, so please email me with questions or concerns or to set up a time to talk via phone or video call.
 
 ## Topic: Contemporary evolution
 
@@ -14,7 +14,7 @@ Evolution by natural selection was first perceived as a slow process acting on g
 
 ### Presentations
 
-Each week, a group of students (i.e., the Topic Leaders) will present the context and findings of the required readings and lead the class discussion. “PowerPoint” presentations (approximately 30  minutes in total length) are encouraged. The presentations may interweave with the discussion or may occur up front, with the discussion to follow. 
+Each week, a group of students (i.e., the Topic Leaders) will present the context and findings of the required readings and lead the class discussion. “PowerPoint” presentations (approximately 30  minutes in total length) are encouraged. The presentations may interleave with the discussion or may occur up front, with the discussion to follow. 
 
 ### Weekly readings and written assignments
 
@@ -79,4 +79,3 @@ Class discussion (10%)
 *Context*: [Grant 2017. Evolution, climate change, and extreme events. *Science* 357:451-452.](https://science.sciencemag.org/content/357/6350/451)
 
 *Primary*: [Campbell-Staton et al. 2017. Winter storms drive rapid phenotypic, regulatory, and genomic shifts in the green anole lizard. *Science* 357:495-498.](https://science.sciencemag.org/content/357/6350/495)
-
