@@ -1,11 +1,25 @@
 # Seminar in Ecology and Evolutionary Biology syllabus
 ### EEB 495H1S, Section L0101, Winter 2021 
 
+## Instructors
+
+Dr. Matthew Osmond, email.name@utoronto.ca (weeks 1-6)
+
+Dr. Locke Rowe, email.name@utoronto.ca (weeks 7-12)
+
+## When and where
+
+Thursdays, 2:10-4:00 PM
+
+See [Quercus](https://q.utoronto.ca) for Zoom info
+
 ## Course description 
 
 In this course we will develop the ability to read, present, and discuss scientific literature critically. These are essential skills for every scientist (and useful skills for everyone) and can also be one of the most enjoyable aspects of science. By the end of the course we hope you will be more comfortable understanding, contextualizing, and criticizing the primary scientific literature, as well as presenting scientific ideas verbally and in writing.   
 
 *Prerequisite*: A minimum of 1.0 FCE in EEB courses at the 300+ level (at least 0.5 FCE in ecology and 0.5 FCE in evolutionary biology is highly recommended)
+
+More information on Section 1 of the course is available [here](https://q.utoronto.ca/courses/198198/pages/section-1-details)
 
 ## Group norms 
 
@@ -16,20 +30,6 @@ not condone discrimination or harassment against any persons or communities.
 [Code of Student Conduct](https://governingcouncil.utoronto.ca/secretariat/policies/code-student-conduct-december-13-2019)
 
 [Netiquette]( https://learn.canvas.net/courses/1340/pages/netiquette-the-golden-rules-for-online-courses)
-
-## When and where
-
-Day, time
-
-See [Quercus](https://q.utoronto.ca) for Zoom link
-
-## Instructors
-
-Dr. Matthew Osmond, mm.osmond@utoronto.ca (weeks 1-6)
-
-Dr. Locke Rowe, locke.rowe@utoronto.ca (weeks 7-12)
-
-See individual section details for more contact information.
 
 ## Required texts
 
@@ -47,7 +47,7 @@ You will need reliable internet. Please let the instructors know if this will be
 
 ### Written assignments (60%)
 
-Each instructor will allocate 30% of your final grade to written assignments. 
+Each instructor will allocate 30% of your final grade to written assignments. You can submit 4 written assignments (by the start of class on the weeks that you are not presenting) and your top 3 will each be worth 10%.
 
 ### Presentations (20%)
 
@@ -55,7 +55,11 @@ Each instructor will allocate 10% of your final grade to an oral presentation (s
 
 ### Discussions (20%)
 
-Each instructor will allocate 10% of your final grade to participating in class discussions.
+Each instructor will allocate 10% of your final grade to participating in class discussions. These are not 'smart marks', all questions and comments are encouraged and given equal weight (as long as they are on topic). In the first section the number of comments you make in your non-presenting weeks will simply be summed, and your mark will be the minimum of that number and 10. 
+
+## Exams
+
+There are no exams.
 
 ## Course webpage
 
@@ -69,9 +73,11 @@ Writing is a big part of this course. Please see the [Writing Center](https://wr
 
 Make sure you know how not to plagiarize. Note that it is not appropriate to use large sections of text from internet sources, and inserting a few of your own words does not make it an original piece of writing. Make sure you read material from many sources in the primary literature and that you write an original text using this information. Always cite your sources. In case of doubt about plagiarism, talk to your instructor. See [Academic Integrity](https://www.academicintegrity.utoronto.ca/) for more information.
 
+[More on academic integrity](https://studentlife.utoronto.ca/wp-content/uploads/SLC8581_7-Grandfathers-in-Academic-Integrity-AODA.pdf)
+
 ## Accessibility
 
-The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code. This occurs through a collaborative process that acknowledges a collective obligation to develop an accessible learning environment that both meets the needs of students and preserves the essential academic requirements of the University’s courses and programs.
+The University provides academic accommodations for students with disabilities in accordance with the terms of the [Ontario Human Rights Code](http://www.ohrc.on.ca/en/ontario-human-rights-code). This occurs through a collaborative process that acknowledges a collective obligation to develop an accessible learning environment that both meets the needs of students and preserves the essential academic requirements of the University’s courses and programs.
 
 Students with diverse learning styles and needs are welcome in this course. If you have a disability that may require accommodations, please feel free to email the instructors and/or the [Accessibility Services office](https://studentlife.utoronto.ca/department/accessibility-services/).
 
@@ -93,7 +99,7 @@ The University of Toronto strives to provide a family-friendly environment. You 
 
 [5 tips for online learning](https://teaching.utoronto.ca/teaching-support/strategies/continuity-planning/5-tips-for-students/)
 
-Enroll in the [Academic success module](https://q.utoronto.ca/enroll/ALEYMP)
+[Academic success module](https://q.utoronto.ca/enroll/ALEYMP)
 
 [Student Online Course Planning and Resources](https://teaching.utoronto.ca/wp-content/uploads/2020/04/Student-Online-Course-Planning-and-Resources.pdf)
 

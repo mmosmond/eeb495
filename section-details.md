@@ -2,7 +2,7 @@
 
 ## Instructor
 
-Dr. Matthew Osmond, mm.osmond@utoronto.ca
+Dr. Matthew Osmond, email.name@utoronto.ca
 
 There are no prearranged office hours, so please email me with questions or concerns or to set up a time to talk via phone or video call.
 
@@ -42,9 +42,11 @@ Class discussion (10%)
 
 ## Schedule
 
-### Week 1 - organization and introduction + critique writing
+### Week 1 - organization and introduction + sample presentation + critique writing
 
-*Optional reading*: [Kreiner et al. 2019. Multiple modes of convergent adaptation in the spread of glyphosate-resistant *Amaranthus tuberculatus*. *Proceedings of the National Academy of Sciences* 116: 21076-21084.](https://doi.org/10.1073/pnas.1900870116)
+*Context*: [Kreiner et al. 2018. Population genomics of herbicide resistance: adaptation via evolutionary rescue. *Annual Review of Plant Biology* 69: 11-35.](https://www.annualreviews.org/doi/10.1146/annurev-arplant-042817-040038)
+
+*Primary*: [Kreiner et al. 2019. Multiple modes of convergent adaptation in the spread of glyphosate-resistant *Amaranthus tuberculatus*. *Proceedings of the National Academy of Sciences* 116: 21076-21084.](https://doi.org/10.1073/pnas.1900870116)
 
 **No critique due this week**
 
@@ -54,11 +56,15 @@ Class discussion (10%)
 
 *Primary*: [Grant and Grant 2006. Evolution of character displacement in Darwin's finches. *Science* 313:224-226.](https://science.sciencemag.org/content/313/5784/224)
 
+Presenters:
+
 ### Week 3 - moths and industrialization 
 
 *Context*: [Mallet and Hoekstra 2016. Ecological genetics: a key gene for mimicry and melanism. *Current Biology* 26:R802-R804.](https://www.sciencedirect.com/science/article/pii/S0960982216307825)
 
 *Primary*: [van't Hof et al. 2016. The industrial melanism mutation in British peppered moths is a transposable element. *Nature* 534:102-105.](https://www.nature.com/articles/nature17951)
+
+Presenters: 
 
 ### Week 4 - killifish and pollution
 
@@ -66,11 +72,15 @@ Class discussion (10%)
 
 *Primary*: [Reid et al. 2016. The genomic landscape of rapid repeated evolutionary adaptation to toxic pollution in wild fish. *Science* 354:1305-1308.](https://science.sciencemag.org/content/354/6317/1305)
 
+Presenters:
+
 ### Week 5 - clover and cites
 
 *Context*: [Johnson and Munshi-South 2017. Evolution of life in urban environments. *Science* 358:eaam8327.](https://science.sciencemag.org/content/358/6363/eaam8327)
 
 *Primary*: [Thompson et al. 2016. Urbanization drives the evolution of parallel clines in plant populations. *Proceedings of the Royal Society B* 283:20162180.](https://doi.org/10.1098/rspb.2016.2180)
+
+Presenters:
 
 ### Reading week, no classes -- enjoy your break!
 
@@ -79,3 +89,5 @@ Class discussion (10%)
 *Context*: [Grant 2017. Evolution, climate change, and extreme events. *Science* 357:451-452.](https://science.sciencemag.org/content/357/6350/451)
 
 *Primary*: [Campbell-Staton et al. 2017. Winter storms drive rapid phenotypic, regulatory, and genomic shifts in the green anole lizard. *Science* 357:495-498.](https://science.sciencemag.org/content/357/6350/495)
+
+Presenters:
